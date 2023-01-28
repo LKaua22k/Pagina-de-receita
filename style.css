@@ -91,7 +91,8 @@ html,body{
     font-size: 1.2rem;
 }
 
-@media (max-width:250px){
+
+@media (max-width:452px){
     :root{
         font-size: 50%;
     }
